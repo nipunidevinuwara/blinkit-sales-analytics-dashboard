@@ -4,6 +4,9 @@
 
 This Power BI project provides a comprehensive sales analysis for Blinkit, an Indian online grocery app owned by Zomato. The analysis focuses on key performance metrics (KPIs), customer satisfaction, and inventory distribution to identify insights and opportunities for business optimization.
 
+## Dashboard Preview
+![Blinkit Sales Dashboard](./images/preview.jpg)
+
 ## Business Requirements
 
 To conduct a detailed analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution using KPIs and visualizations in Power BI. The primary objectives include:
