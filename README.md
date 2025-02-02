@@ -108,5 +108,3 @@ This Power BI project successfully provided actionable insights into Blinkit's s
 
 The visualizations and insights generated serve as a valuable tool for strategic decision-making and operational improvements.
 
-data modelling not applicable in this project
-
